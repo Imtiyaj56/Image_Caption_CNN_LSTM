@@ -1,8 +1,3 @@
-# Models (Large files)
-models/model.keras
-models/feature_extractor.keras
-models/tokenizer.pkl
-
 # Python
 __pycache__/
 *.pyc
