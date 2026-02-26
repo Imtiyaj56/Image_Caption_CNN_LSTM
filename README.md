@@ -10,4 +10,4 @@ Used LSTM For Generating The Captions in Form Of Sequentail/Textual Data, The Mo
 
 Used Google Antigravity For Giving UI To This Deep Learning Model.
 
-Deployed It Using Render.
+
